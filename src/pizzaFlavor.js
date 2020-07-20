@@ -1,0 +1,16 @@
+export const pizzaFlavor = [
+  'Pepperoni',
+  'Sausage',
+  'Canadian Bacon',
+  'Spicy Italian Sausage',
+  'Chicken',
+  'Onions',
+  'Green Pepper',
+  'Diced Tomatos',
+  'Black Olives',
+  'Roasted Garlic',
+  'Artichoke Hearts',
+  'Three Cheese',
+  'Pineapple',
+  'Extra Cheese',
+]
